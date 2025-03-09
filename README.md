@@ -39,7 +39,7 @@ The application will start on **http://localhost:8080**
 ## API Endpoints
 
 ### 1. Create a Training Center
-- **Endpoint:** `POST /api/training-center`
+- **Endpoint:** `POST /training-center`
 - **Request Body (JSON):**
 ```json
 {
@@ -77,7 +77,7 @@ The application will start on **http://localhost:8080**
 ```
 
 ### 2. Get All Training Centers
-- **Endpoint:** `GET /api/training-center`
+- **Endpoint:** `GET /training-center`
 - **Response (Example):**
 ```json
 [
